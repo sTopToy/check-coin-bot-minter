@@ -1,0 +1,1 @@
+# check-coin-bot-minter
